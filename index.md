@@ -18,7 +18,7 @@ Click the pictures in the table to be brought to my github projects.
   </tr>
   <tr>
     <td> <img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/StudentPerformance%20HypTesting%20Project/graphics/gender_math_hist.png"  alt="Student Performance"></td>
-      <td> <img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/StudentPerformance%20HypTesting%20Project/graphics/gender_math_hist.png"  alt="Student Performance"></td>
+      <td> <img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/Rollercoaster%20Project/func.png"  alt="Math Identity"></td>
       <td> <img src="https://github.com/TheStarCloud/Projects/blob/main/Employee%20Turnover%20PBI%20Project/EmployeeTurnover1.png?raw=true"  alt="Power BI"></td>
    </tr> 
 </table>
