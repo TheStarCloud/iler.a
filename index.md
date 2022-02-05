@@ -18,12 +18,9 @@ Click the pictures in the table to be brought to my github projects.
   </tr>
   <tr>
     <td> 
-        <a href="https://github.com/TheStarCloud/Projects/tree/main/StudentPerformance%20HypTesting%20Project">
-            <img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/StudentPerformance%20HypTesting%20Project/graphics/gender_math_hist.png"  alt="Student Performance"></td>
-      <td><a href="https://github.com/TheStarCloud/Projects/tree/main/Rollercoaster%20Project"> 
-          <img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/Rollercoaster%20Project/func.png"  alt="Math Identity"></td>
-      <td> <a href="https://github.com/TheStarCloud/Projects/tree/main/Employee%20Turnover%20PBI%20Project"> 
-          <img src="https://github.com/TheStarCloud/Projects/blob/main/Employee%20Turnover%20PBI%20Project/EmployeeTurnover1.png?raw=true"  alt="Power BI"></td>
+        <a href="https://github.com/TheStarCloud/Projects/tree/main/StudentPerformance%20HypTesting%20Project"><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/StudentPerformance%20HypTesting%20Project/graphics/gender_math_hist.png"  alt="Student Performance"></td>
+      <td><a href="https://github.com/TheStarCloud/Projects/tree/main/Rollercoaster%20Project"><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/Rollercoaster%20Project/func.png"  alt="Math Identity"></td>
+      <td> <a href="https://github.com/TheStarCloud/Projects/tree/main/Employee%20Turnover%20PBI%20Project"><img src="https://github.com/TheStarCloud/Projects/blob/main/Employee%20Turnover%20PBI%20Project/EmployeeTurnover1.png?raw=true"  alt="Power BI"></td>
    </tr> 
 </table>
 
