@@ -26,7 +26,7 @@ My strong skills developed from my experience as a teacher, of analysis for data
     </tr>
     <tr>
         <td><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/Rollercoaster%20Project/func.png"  alt="Roller Coaster"></td>
-        <td><img src="https://github.com/TheStarCloud/Projects/blob/main/HoneyProduction%20LinRegr/images/prodbyyear.png"  alt="Honey Linear Regression"></td>
+        <td><img src="https://github.com/TheStarCloud/Projects/blob/main/HoneyProduction%20LinRegr/images/prodbyyear.png?raw=true"  alt="Honey Linear Regression"></td>
     </tr>
 </table>
 
