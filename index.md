@@ -11,7 +11,7 @@ My strong skills developed from my experience as a teacher, of analysis for data
 
 <table>
     <tr>
-    <th><a href="https://github.com/TheStarCloud/Projects/tree/main/StudentPerformance%20HypTesting%20Project">Student Performance</a></th>
+    <th><a href="https://github.com/TheStarCloud/Projects/tree/main/StudentPerformance%20HypTesting%20Project">Student Performance AB Testing</a></th>
     <th><a href="https://github.com/TheStarCloud/Projects/tree/main/Employee%20Turnover%20PBI%20Project">Power BI</a></th>
 
   </tr>
