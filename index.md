@@ -13,14 +13,21 @@ My strong skills developed from my experience as a teacher, of analysis for data
     <tr>
     <th><a href="https://github.com/TheStarCloud/Projects/tree/main/StudentPerformance%20HypTesting%20Project">Student Performance</a></th>
     <th><a href="https://github.com/TheStarCloud/Projects/tree/main/Employee%20Turnover%20PBI%20Project">Power BI</a></th>
-    <th><a href="https://github.com/TheStarCloud/Projects/tree/main/Rollercoaster%20Project">Roller Coaster</a></th>
+
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/StudentPerformance%20HypTesting%20Project/graphics/gender_math_hist.png"  alt="Student Performance"></td>
       <td><img src="https://github.com/TheStarCloud/Projects/blob/main/Employee%20Turnover%20PBI%20Project/EmployeeTurnover1.png?raw=true"  alt="Power BI"></td>
-      <td><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/Rollercoaster%20Project/func.png"  alt="Roller Coaster"></td>
+      
 </tr> 
-
+<tr>
+        <th><a href="https://github.com/TheStarCloud/Projects/tree/main/Rollercoaster%20Project">Roller Coaster</a></th>
+        <th><a href="https://github.com/TheStarCloud/Projects/tree/main/HoneyProduction%20LinRegr">Honey Linear Regression</a></th>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/Rollercoaster%20Project/func.png"  alt="Roller Coaster"></td>
+        <td><img src="https://github.com/TheStarCloud/Projects/blob/main/HoneyProduction%20LinRegr/images/prodbyyear.png"  alt="Honey Linear Regression"></td>
+    </tr>
 </table>
 
 
