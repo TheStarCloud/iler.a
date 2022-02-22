@@ -35,4 +35,4 @@ My strong skills developed from my experience as a teacher, of analysis for data
 
 
 ### Here are links to Write-Ups from some fun challenges that I took on to sharpen my skills
-#### * [SQL Murder Mystery](https://github.com/TheStarCloud/Challenge-Writeups/blob/main/SQLMurderMystery_Writeup.pdf)
+* [SQL Murder Mystery](https://github.com/TheStarCloud/Challenge-Writeups/blob/main/SQLMurderMystery_Writeup.pdf)
