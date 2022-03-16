@@ -28,7 +28,7 @@ Below are links to some projects I put together during my self study time explor
     </tr>
     <tr>
         <td><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/Rollercoaster%20Project/func.png"  alt="Roller Coaster"></td>
-        <td><img src="https://github.com/TheStarCloud/Projects/blob/main/HoneyProduction%20LinRegr/images/prodbyyear.png?raw=true"  alt="Honey Linear Regression"></td>
+        <td><img src="https://github.com/TheStarCloud/Projects/blob/main/HoneyProduction%20LinRegr/images/price_pred_accuracies.png"  alt="Honey Linear Regression"></td>
     </tr>
 </table>
 
