@@ -39,3 +39,4 @@ Below are links to some projects I put together during my self study time explor
 ## Challenge Write-Ups
 * [SQL Murder Mystery](https://github.com/TheStarCloud/Challenge-Writeups/blob/main/SQLMurderMystery_Writeup.pdf)
 * [Airfare SQL Challenge](https://github.com/TheStarCloud/Challenge-Writeups/blob/main/Airfare%20SQL%20Challenge.pdf)
+* [NYC Green Taxi SQL and ETL Challenge](https://github.com/TheStarCloud/Projects/blob/main/NYCtaxi/NYCtaxi_writeup.pdf)
