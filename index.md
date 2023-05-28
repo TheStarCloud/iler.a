@@ -23,11 +23,11 @@ Below are links to some projects I put together during my self study time explor
       
 </tr> 
 <tr>
-        <th><a href="https://github.com/TheStarCloud/Projects/tree/main/Rollercoaster%20Project">Roller Coaster</a></th>
+        <th><a href="https://github.com/TheStarCloud/Projects/tree/main/GPA_Analysis_task">GPA Analysis</a></th>
         <th><a href="https://github.com/TheStarCloud/Projects/tree/main/HoneyProduction%20LinRegr">Honey Linear Regression</a></th>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/Rollercoaster%20Project/func.png"  alt="Roller Coaster"></td>
+        <td><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/GPA_Analysis_task/visualizations/GPAbyEnglishProf.png"  alt="GPA Analysis"></td>
         <td><img src="https://github.com/TheStarCloud/Projects/blob/main/HoneyProduction%20LinRegr/images/price_pred_accuracies.png?raw=true"  alt="Honey Linear Regression"></td>
     </tr>
 </table>
