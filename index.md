@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a former math teacher, who who has my skills to the world of data analytics and data science. I have continued my education through various programs and self-study to hone my coding skills, and now work as the Data Solutions Architect for an Advertising Agency.
+I am a former math teacher, who has transferred my skills to the world of data analytics and data science. I have continued my education through various programs and self-study to hone my coding skills, and now work as the Data Solutions Architect for an Advertising Agency.
 
 My strong skills developed from my experience as a teacher, of analysis for data-driven instruction and presenting mathematical concepts and models to technical and non-technical audiences will make me an asset to your team.
 
