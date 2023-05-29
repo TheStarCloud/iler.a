@@ -6,7 +6,7 @@ I am a former math teacher, who has transferred my skills to the world of data a
 
 My strong skills developed from my experience as a teacher, of analysis for data-driven instruction and presenting mathematical concepts and models to technical and non-technical audiences will make me an asset to your team.
 
-Below are links to some projects I put together during my self study time exploring data analysis and data science, and write-ups from some fun challenges that I took on to sharpen my skills. 
+Below are links to some projects I put together during my self study time exploring data analysis and data science, and write-ups from some fun challenges that I took on to sharpen my skills. (Please click on project titles to view.)
 
 
 ## Projects
