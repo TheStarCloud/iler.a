@@ -14,12 +14,12 @@ Below are links to some projects I put together during my self study time explor
 <table>
     <tr>
     <th><a href="https://github.com/TheStarCloud/Projects/tree/main/StudentPerformance%20HypTesting%20Project">Student Performance AB Testing</a></th>
-    <th><a href="https://github.com/TheStarCloud/Projects/tree/main/Employee%20Turnover%20PBI%20Project">Power BI</a></th>
+    <th><a href="https://github.com/TheStarCloud/Projects/tree/e389a2bef1d96dea2f6b4bb678099f0cc206f84e/Salesforce%20MCI%20Dashboard%20Portfolio%20Sample">Salesforce MCI</a></th>
 
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/StudentPerformance%20HypTesting%20Project/graphics/gender_math_hist.png"  alt="Student Performance"></td>
-      <td><img src="https://github.com/TheStarCloud/Projects/blob/main/Salesforce%20MCI%20Dashboard%20Portfolio%20Sample/Salesforce%20MCI%20Dashboard%20Sample-1.png?raw=true"  alt="Salesforce MCI"></td>
+      <td><img src="https://github.com/TheStarCloud/Projects/blob/main/Salesforce%20MCI%20Dashboard%20Portfolio%20Sample/Screenshot%202024-09-26%20151630.png?raw=true" alt="Salesforce MCI" width="400"></td>
       
 </tr> 
 <tr>
