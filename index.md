@@ -19,7 +19,7 @@ Below are links to some projects I put together during my self study time explor
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/TheStarCloud/Projects/main/StudentPerformance%20HypTesting%20Project/graphics/gender_math_hist.png"  alt="Student Performance"></td>
-      <td><img src="https://github.com/TheStarCloud/Projects/blob/main/Employee%20Turnover%20PBI%20Project/EmployeeTurnover1.png?raw=true"  alt="Power BI"></td>
+      <td><img src="https://github.com/TheStarCloud/Projects/blob/main/Salesforce%20MCI%20Dashboard%20Portfolio%20Sample/Salesforce%20MCI%20Dashboard%20Sample-1.png?raw=true"  alt="Salesforce MCI"></td>
       
 </tr> 
 <tr>
